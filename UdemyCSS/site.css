@@ -1,11 +1,13 @@
 ﻿body {
 /*font family*/
-p {
+/*p {
     font-family: Arial;
-}
+}*/
 /*font size*/
 h1 {
-    font-family: Georgia;
+    /*font-family: Georgia;*/
+    font-family: Indie Flower;
+    /*added google fonts*/
     font-size: 200px;
 }
 body {
@@ -15,6 +17,7 @@ h1 {
     font-size: 5.0em;
 }
 p {
+    font-family: Roboto;
     font-size: 2.0em;
 }
 span {
